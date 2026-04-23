@@ -3,7 +3,7 @@
 Selamat datang di repositori portofolio saya! Di sini saya menyimpan berbagai proyek pengembangan perangkat lunak dan desain yang telah saya kerjakan selama masa studi saya.
 
 ## 👤 Tentang Saya
-Saya adalah siswa tingkat akhir jurusan **Rekayasa Perangkat Lunak (RPL)** di SMKN 1 Lemahsugih. Saya memiliki minat besar dalam pengembangan web, manajemen database, dan desain grafis. Saya terbiasa bekerja dengan detail, disiplin, dan mudah beradaptasi dengan teknologi baru.
+Saya adalah siswa tingkat akhir jurusan **Rekayasa Perangkat Lunak (RPL)** di SMKN 1 Lemahsugih. Saya memiliki minat besar dalam pengembangan web, manajemen database, desain grafis dan saya juga berperan aktif sebagai penulis lepas yang sudah menerbitkan buku pada tahun 2025. Disamping itu, saya juga bekerja freelance dalam jasa tulis proposal dan laporan. Saya terbiasa bekerja dengan detail, disiplin, dan mudah beradaptasi dengan teknologi baru.
 
 ## 🛠️ Keahlian Teknis
 * **Programming Languages:** PHP native.
